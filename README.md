@@ -1,6 +1,7 @@
 **What it does:**
 
 This detects all 4 bosses from the revamped version of Catacomb Floor 7 (Maxor, Storm, Goldor, Necron) in order to display their different hit phases, abilities and advanced health bar.
+![WI](https://github.com/Quanlizr/WitherIndicators/assets/142359771/2a6d690b-8357-45ca-b233-bdbd606d0261)
 
 **Why is this useful?**
 
